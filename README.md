@@ -17,9 +17,6 @@
 - **Mental Health and Remote Work**  
   Built network graphs and analyzed survey data to explore how industry influences mental health outcomes
 
-- **PRN Labor & Union Analytics**  
-  Analyzed staffing data, optimized shift groupings, and built HR dashboards for operational decisions
-
 ---
 
 ## 🛠️ Tools & Tech
