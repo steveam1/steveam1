@@ -1,31 +1,31 @@
-# Hi, I'm Ashley Stevens 👋
+# Ashley Stevens
 
-🎓 Master’s in Data Science @ Vanderbilt  
-💼 Former Business Analyst | Building smart, ethical, and practical machine learning solutions  
-🧠 Passionate about ethical AI, customer insights, and dashboard storytelling
+Master’s student in Data Science at Vanderbilt University  
+Former Business Analyst with a focus on building ethical, impactful, and practical machine learning solutions.  
+Experienced in data storytelling, customer insights, and applied analytics.
 
 ---
 
-## 🔍 Featured Projects
+## Featured Projects
 
 - **[Sales Success Playbook](https://github.com/zhiqi-zhang233/Sales_Playbook)**  
-  ML dashboard using XGBoost (AUC 0.92) and Streamlit to predict deal success and segment customers
+  Developed a predictive dashboard using XGBoost and Streamlit to forecast deal outcomes and segment customers by performance. Achieved an AUC score of 0.92.
 
-- **Credit Card Fraud Detection**  
-  Applied anomaly detection models (Isolation Forest, Autoencoder, DBSCAN) on real-world financial data
+- **[Mental Health and Remote Work](https://github.com/yourusername/mental-health-workplace-eda)**  
+  Explored the impact of work environment and industry on employee mental health using survey data. Built visualizations and performed stress-related EDA across multiple sectors.
 
-- **Mental Health and Remote Work**  
-  Built network graphs and analyzed survey data to explore how industry influences mental health outcomes
-
----
-
-## 🛠️ Tools & Tech
-
-`Python` · `Pandas` · `SQL` · `scikit-learn` · `Streamlit` · `Docker` · `Tableau` · `Jupyter Notebooks`
+- **[Global COVID-19 Vaccination Analysis](https://github.com/yourusername/covid19-vaccine-analysis)**  
+  Analyzed WHO COVID-19 data to examine vaccination disparities, case trends, and health outcomes across regions. Created data-driven visualizations and a comprehensive report.
 
 ---
 
-## 📫 Let’s Connect
+## Tools and Technologies
 
-🔗 [LinkedIn](https://www.linkedin.com/in/ashleymstevens/)  
-💌 ashleym.stevens@vanderbilt.edu
+Python · Pandas · NumPy · SQL · scikit-learn · Jupyter Notebooks · Tableau · Streamlit · Docker
+
+---
+
+## Contact
+
+LinkedIn: [linkedin.com/in/ashleymstevens](https://www.linkedin.com/in/ashleymstevens/)  
+Email: ashleym.stevens@vanderbilt.edu
